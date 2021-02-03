@@ -7,6 +7,8 @@ This assignment is composed of two main sections:
   1. Building a simple Micro-Service framework.
   2. Implementing an online books store application on top of this framework.
   
+ The implementation of the book store is multi-threaded , meaning the solution includes synchronization, avoiding deadlocks or liveness while keeping the program correctness and consistency .
+ 
  More explanation about the assignment can be found in [Assigment Specification](https://github.com/shaniklein/SPL191-Assignment-2/blob/main/Assignment%20Specification.pdf)
  
   ### Testing the assignment
