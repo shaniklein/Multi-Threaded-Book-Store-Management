@@ -1,5 +1,5 @@
-# SPL191-Assignment-2
-My solution for assigmnet 2 in Systems Programming Course BGU University
+# Multi-Threaded-Online-Book-Store-Management
+In the following assignment I implemented an online book store with a delivery option based on Micro-Service framework . This code is part of my solution for assigmnet 2 in Systems Programming Course BGU University (SPL191)
 
 ### Assignment Definition 
 In the following assignment I implemented a simple Micro-Service framework, which I then use to implement an online book store with a delivery option. 
